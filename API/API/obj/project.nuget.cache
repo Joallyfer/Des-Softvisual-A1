@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPCTS+7gDvo=",
+  "dgSpecHash": "LIpE9+E6pdY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\projeto_chamados_completo\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\Prova API\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
